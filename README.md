@@ -2,7 +2,7 @@
 
 [![NPM Version](https://img.shields.io/npm/v/loggerr.svg)](https://npmjs.org/package/loggerr)
 [![NPM Downloads](https://img.shields.io/npm/dm/loggerr.svg)](https://npmjs.org/package/loggerr)
-[![CI Test](https://github.com/wesleytodd/loggerr/workflows/Tests/badge.svg)](https://github.com/wesleytodd/loggerr/actions)
+[![CI Test]https://github.com/wesleytodd/loggerr/w(orkflows/Tests/badge.svg)](https://github.com/wesleytodd/loggerr/actions)
 [![js-standard-style](https://img.shields.io/badge/code%20style-standard-brightgreen.svg)](https://github.com/standard/standard)
 
 A very simple logger.
